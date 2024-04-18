@@ -1,4 +1,4 @@
-# Basic-HTML-and-CSS
+# Basic-HTML-CSS-JAVASCRIPT
 This is for my academy project programming
 # My Portfolio Webpage Basic-HTML-CSS-JAVASCRIPT
 link Here:https://github.com/AlexisofAcademy/Basic-HTML-and-CSS/blob/main/Contact%20Me.html
